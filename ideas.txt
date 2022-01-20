@@ -1,44 +1,44 @@
-Idea 1:
+Idea 1: Water Quality
 
-Question:
-Purpose:
+Question: What are the major factors that affect the potability of water?
+Purpose: Water quality is a necessary resource, but much of it is unfit for consumption. Determining what factors influence water's potability may provide insight into how to both gauge potability of a different water source and remedy existing non-potable resources.
 
-Possible data sources:
-Possible visual elements:
-
-
-Idea 2:
-
-Question:
-Purpose:
-
-Possible data sources:
-Possible visual elements:
+Possible data sources: Kaggle data set: https://www.kaggle.com/adityakadiwal/water-potability
+Possible visual elements: Countplot showing potable water vs. non-potable for context, histograms for each factor affecting water quality (overlapping - one color for potable water resources and a different color/pattern for non-potable resources.)
 
 
-Idea 3:
+Idea 2: Movie Rating Analysis
 
-Question:
-Purpose:
+Question: Does a movie's rating affect how much viewers enjoyed it?
+Purpose: Movie ratings are a measure often used to determine whether a movie is worth watching; however, ratings do not always seem to directly translate to viewers' enjoyment. Is there a more accurate measure for determining a movie's value?
 
-Possible data sources:
-Possible visual elements:
-
-
-Idea 4:
-
-Question:
-Purpose:
-
-Possible data sources:
-Possible visual elements:
+Possible data sources: https://www.kaggle.com/general/73072
+Possible visual elements: Overlapping histograms of movie ratings and viewer enjoyment ratings, scatter plot comparing movie ratings to viewer enjoyment ratings, line of best fit.
 
 
-Idea 5:
+Idea 3: Meteorologic Data
 
-Question:
-Purpose:
+Question: Has temperature and humidity data from the past 10 years increased?
+Purpose: To assess the effects of global warming on temperature and humidity.
 
-Possible data sources:
-Possible visual elements:
+Possible data sources: https://www.kaggle.com/muthuj7/weather-dataset
+Possible visual elements: Heatmap/correlation matrix to show correlation of all columns in the data frame, scatterplot with apparent temperature on the x-axis and humidity on the y-axis, apparent temperature over time.
+
+
+Idea 4: Broadband Data
+
+Question: What factors have the most influence on broadband speed?
+Purpose: With the increasing amount of virtual classes, jobs, and networks, high broadband speeds are more necessary than ever. Determining what factors influence broadband speed is important to knowing how to best increase the speed.
+
+Possible data sources: https://catalog.data.gov/dataset/broadband-speed-tests, https://data.wa.gov/Demographics/Broadband-Speed-Tests/rsqh-kx83
+Possible visual elements: Scatter plots comparing speed to the various factors that may influence speed (proximity to city center, technology, number of people sharing connection)
+
+
+Idea 5: Water Capture
+
+Question: What methods of water capture are most efficient?
+Purpose: Across the western US and dry climates around the world, local water supplies are dwindling. Water capture may be a way to provide more water security in the upcoming years, so residents should know how to best capture water.
+
+Possible data sources: https://www.kaggle.com/cityofLA/water-capture-by-method
+Possible visual elements: Histogram showing the average water amount captured by each method, boxplots for each individual method.
 
